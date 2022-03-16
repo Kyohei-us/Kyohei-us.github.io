@@ -7,7 +7,7 @@ categories: General
 
 I have developed a simple API for the sake of learning TypeScript, JWT (Json Web Tokens), Prisma.
 
-The GitHub repo (link)[https://github.com/Kyohei-us/myPrismaExpress]
+The GitHub repo [link](https://github.com/Kyohei-us/myPrismaExpress)
 
 JWT is used to authenticate API requests.
 JWT can have expiration time.
