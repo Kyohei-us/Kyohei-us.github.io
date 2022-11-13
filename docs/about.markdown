@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+My name is Kyohei Yamaguchi. (山口 恭平 in Japanese)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+I am a Software Engineer at an IT company from October, 2022.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+For my information as Software Engineer, please refer to my [GitHub profile](https://github.com/Kyohei-us).
+
+For my blog posts (mostly on engineering/programming), please check out [here](https://kyohei-us.github.io).
 
 
-[jekyll-organization]: https://github.com/jekyll
+Kyohei
+
